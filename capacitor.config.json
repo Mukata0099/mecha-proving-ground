@@ -1,0 +1,6 @@
+{
+  "appId": "com.mechaprovingground.game",
+  "appName": "Mecha Proving Ground",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
